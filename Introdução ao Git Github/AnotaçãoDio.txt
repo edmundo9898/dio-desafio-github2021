@@ -1,0 +1,46 @@
+Finalizar bootcamp da dio com 100% 
+
+Git e  Github
+  COMANDOS
+  mkdir : crirar pastas
+  cd : navegador entra pastas 
+  cd .. : Voltar pasta
+  dir / ls : mostrar os arquivos
+  cls / clear : limpar o comando
+  del-rmdir / rm -rf : deletar arquivo / deletar repositorio
+  cat : Gerar o codigo cripto 
+  pwd : mostrar o caminho completo da pasta onde está
+  eval $(ssh-agent -s)
+  ls -a : arquivos ocultos
+  mv : mover arquivos
+
+Comandos do git : 
+   git init : Iniciar repositorio git 
+   git add : Mover / iniciar o versionamento
+   git commit : Criar primeiro commit  
+   git status : Status dos arquivos
+   git config --global -- user.email(name) " email e nome"
+   git config --global --unset user.email pare resetar email e name
+   git remote add origin "Link do Repositorio"
+   Dps que criar um repositorio no git/github pegar o link dele e usar o comando acima
+   git push origin master : enviar/empurrar o codigo git para o github
+   git  pull  origin masters : puxar codigo
+   
+   
+   
+
+
+objetos internos do git 
+blob
+Tree
+commits 
+Chave SSH 
+ssh-keygen -t ed255519 -c  email
+
+
+
+
+
+
+
+
